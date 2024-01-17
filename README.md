@@ -1,11 +1,3 @@
-# wavefunctioncollapse
-
-Typescript port of https://github.com/kchapelier/wavefunctioncollapse
-
-- [Interactive OverlappingModel demo](http://www.kchapelier.com/wfc-example/overlapping-model.html)
-- [Interactive SimpleTiledModel demo](http://www.kchapelier.com/wfc-example/simple-tiled-model.html)
-- [Animated SimpleTiledModel demo](http://www.kchapelier.com/wfc-example/simple-tiled-model-animated.html)
-
 ## Installing
 
 With [npm](http://npmjs.org) do:
